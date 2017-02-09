@@ -19,7 +19,7 @@
 + [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs)
 + [前端快速掌握 nodejs+mongodb+express+jade](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/)
 + [从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)
-+ [七天学会NodeJS-Node Lessons](https://github.com/alsotang/node-lessons)
++ [Node.js 包教不包会](https://github.com/alsotang/node-lessons)
 
 ##业界新闻
 
